@@ -9,4 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajpatel97&count_private=true&show_icons=true&theme=dracula)
