@@ -1,6 +1,6 @@
 ### Hi I'm Raj 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajp.dev/)
+[![Website](https://img.shields.io/website?label=RAJP.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rajp.dev/)
 
 - 🔭 I’m currently working on a secret project 
 - 🌱 I’m currently learning ...
