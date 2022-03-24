@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a secret project.
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about my current project! 
-- 🥅 2022 Goals: Learn Three.js.
+- 🥅 2022 Goals: Learn Three.js. 
 
 
 ## 🛠️ Technologies and Tools I use:
